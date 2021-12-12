@@ -24,7 +24,10 @@ button {
     cursor: pointer;
 }
 button:hover {
-    background: #f2cc73;  
+    border: 1px solid white;  
+}
+button:active {
+    opacity: .9;
 }
 .container {
     animation: transitionIn 1s;
