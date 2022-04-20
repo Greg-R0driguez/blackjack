@@ -1,6 +1,6 @@
 # Blackjack   
 
-👉  https://greg-r0driguez.github.io/blackjack/  👈
+👉  https://GregRodriguezJr.github.io/blackjack/  👈
 
 Assignment from programming logic and design course, to practice writing an algorithm to play against the computer.
 
